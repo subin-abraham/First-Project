@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Maze&display=swap');
+
+div {
+    height: 647px;
+    width: 22%;
+    background-color: black;
+    float: left;
+    border: white 2px solid;
+    color: white;
+    padding: 15px;
+    text-align: center;
+
+}
+
+img {
+    width: 100%;
+    height: 300px;
+    border-radius: 164px;
+}
+
+p {
+    font-size: large;
+    font-family: 'Rubik Maze', cursive;
+}
+
+/* work 
+book gallery 
+book name
+book image 
+author name
+description */
